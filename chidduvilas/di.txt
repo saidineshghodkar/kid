@@ -1,3 +1,0 @@
-name=kl, age=1, id=5, salary=5, company=lk
-name=sai , age=6, id=55, salary=8, company=6hk
-name=sai dinesh, age=556, id=65, salary=564, company=dghd
